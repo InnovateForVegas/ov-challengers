@@ -23,6 +23,10 @@ One aspect of the vLocal project, privacy aware identity, will enable *Challenge
 
 ## Highest Priority Considerations
 
+If we assume that vLocal has a similar view on personally identifying information, privacy, and observance of rules regarding minors and COPPA, we will align well on that front. Since vLocal is also our project, that should work out nicely.
+
+But seriously, minor identity and privacy, always important to protect and manage correctly, true on the Challengers platform in particular and so making this pervasive and re-using those efforts will be valuable.
+
 ## Specification Details
 
 ## External Reference Materials
@@ -32,9 +36,9 @@ One aspect of the vLocal project, privacy aware identity, will enable *Challenge
 **Terms**:
 
 - **User**: an end user of Challenger data, website content, etc, probably a member of the general public, news outlets, etc.
-- **Challenger**: an individual participating in one or more Challenges
-- **Facilitator**: an individual, likely as part of an organization, enabling participation in a Challenge by Challengers
-- **Organizer**: an individual, likely as part of an organization, enabling a Challenge and associated events and resources
+- **Challenger**: an individual participating in one or more Challenges, likely of minor age (students, youth in general)
+- **Facilitator**: an individual, likely as part of an organization, enabling participation in a Challenge by Challengers, including local events and engagements according to the rules set by the Organizer
+- **Organizer**: an individual, likely as part of an organization, responsible for a Challenge and associated events and resources
 - **Collaborator**: an individual, likely as part of an organization, sponsoring or otherwise supporting a Challenge and/or Challengers
 
 User Stories are implemented as [GitHub Story Issues in the Overview Repository](https://github.com/InnovateForVegas/ov-challengers/issues)

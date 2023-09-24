@@ -23,7 +23,15 @@ The Challengers project connects individual participants (the *Challengers*) wit
 
 ## Highest Priority Considerations
 
+Security is always a concern, especially in any case where our storage of Challenger information (especially personally identifying information) might leak to these external sites for anything from account sync to publicizing names, photos, etc. The same is true of a subscription, where the external site may have less-protective policies regarding PII for challengers, which is essential to be aware of in the case of minor participants.
+
 ## Specification Details
+
+The actual capabilities of external websites and sub-sites (some events may be part of a larger website or web presence) will vary wildly, some possibilities include:
+
+- Subscribing to challenge/event calendar(s) directly to use the CalDAV infrastructure to maintain current status and a view on upcoming events
+- Publishing to external sites related to the event, or adjacent to the event and its challenges as appropriate (ie local My Muni news/announcement publication)
+- Generalized subscription to related information on an event website or its related resources (ie subscribe to a url, scrape periodically and check for changes)
 
 ## External Reference Materials
 
@@ -32,9 +40,9 @@ The Challengers project connects individual participants (the *Challengers*) wit
 **Terms**:
 
 - **User**: an end user of Challenger data, website content, etc, probably a member of the general public, news outlets, etc.
-- **Challenger**: an individual participating in one or more Challenges
-- **Facilitator**: an individual, likely as part of an organization, enabling participation in a Challenge by Challengers
-- **Organizer**: an individual, likely as part of an organization, enabling a Challenge and associated events and resources
+- **Challenger**: an individual participating in one or more Challenges, likely of minor age (students, youth in general)
+- **Facilitator**: an individual, likely as part of an organization, enabling participation in a Challenge by Challengers, including local events and engagements according to the rules set by the Organizer
+- **Organizer**: an individual, likely as part of an organization, responsible for a Challenge and associated events and resources
 - **Collaborator**: an individual, likely as part of an organization, sponsoring or otherwise supporting a Challenge and/or Challengers
 
 User Stories are implemented as [GitHub Story Issues in the Overview Repository](https://github.com/InnovateForVegas/ov-challengers/issues)
