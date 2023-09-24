@@ -31,6 +31,8 @@ But seriously, minor identity and privacy, always important to protect and manag
 
 ## External Reference Materials
 
+- [vLocal](https://github.com/InnovateForVegas/ov-vlocal)
+  
 ## User Stories
 
 **Terms**:
