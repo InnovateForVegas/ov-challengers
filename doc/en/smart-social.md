@@ -29,7 +29,7 @@ As mentioned in the [Teams and Challenges](teams-challenges.md) doc, minor parti
 
 Integration of Smart Social features and functionality is almost obvious:
 
-- Smart Calendar for event planning (due dates, hackathons, related meetups and online engagements, etc)
+- Smart Calendar for event planning (due dates, hackathons, related meetups and online engagements, etc) and sharing
 - Smart Contacts to manage individual contact information with privacy awareness, and individual profile/bio pages content, etc
 - Smart News to provide a general news feed for announcing upcoming challenges and events, participants, etc
 
